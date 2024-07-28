@@ -94,7 +94,7 @@ To get started with the Book Social Network project, follow the setup instructio
 
 ## Contributors
 
-- [Ali Bouali](https://github.com/ali-bouali)
+- [Oussama Othmani](https://github.com/oussama123-ai)
 
 ## Acknowledgments
 
